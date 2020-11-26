@@ -1,0 +1,5 @@
+Cluster0(cricket): 0.95
+Cluster1(tennis): 0.989010989010989
+Cluster2(athletics): 0.9659090909090909
+Cluster3(rugby): 0.8
+Cluster4(football): 0.6983240223463687
